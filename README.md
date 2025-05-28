@@ -1,2 +1,3 @@
 # Python-Practice
-Small files of python practice
+This repo is full of small projects that I have used to learn how python works. 
+Start date:
